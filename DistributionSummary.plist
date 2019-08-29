@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SWUG5.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6B1876D7529E4F4C241B0EA72D1C844DDD06B436</string>
+				<key>dateExpires</key>
+				<string>8/13/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1876D7529E4F4C241B0EA72D1C844DDD06B436</string>
+						<key>dateExpires</key>
+						<string>8/13/20</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8YFSS9436Y</string>
+						<key>name</key>
+						<string>Luis Gomez</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1876D7529E4F4C241B0EA72D1C844DDD06B436</string>
+						<key>dateExpires</key>
+						<string>8/13/20</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8YFSS9436Y</string>
+						<key>name</key>
+						<string>Luis Gomez</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1876D7529E4F4C241B0EA72D1C844DDD06B436</string>
+						<key>dateExpires</key>
+						<string>8/13/20</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8YFSS9436Y</string>
+						<key>name</key>
+						<string>Luis Gomez</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8YFSS9436Y.com.Louie-Gomez.SWUG5</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8YFSS9436Y</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>South West User Group.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a9582551-9146-4f4c-af60-65c02a599f63</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.Louie-Gomez.SWUG5</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8YFSS9436Y</string>
+				<key>name</key>
+				<string>Luis Gomez</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
